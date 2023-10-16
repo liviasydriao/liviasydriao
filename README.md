@@ -1,4 +1,4 @@
-## Olá! Eu sou Lívia Sydrião 🖐️
+## Olá! Eu sou Lívia Sydrião 😉💡
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/liviasydriao)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/l%C3%ADvia-braga-sydri%C3%A3o-de-alencar-7191491a6)
@@ -15,6 +15,6 @@
   
 </div><br/>
 
-Estudante de Análise e Desenvolvimento de Sistemas, programadora em formação.
+Estudante de Análise e Desenvolvimento de Sistemas, programadora em formação 💻
 
 
