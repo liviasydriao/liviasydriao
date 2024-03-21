@@ -17,6 +17,6 @@
   
 </div><br/>
 
-<h2>Estudante de Análise e Desenvolvimento de Sistemas, programadora em formação 💻</h2>
+<h4>Estudante de Análise e Desenvolvimento de Sistemas, programadora em formação 💻</h4>
 
 
